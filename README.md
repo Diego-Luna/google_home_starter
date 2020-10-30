@@ -1,5 +1,4 @@
 ## Google Home Starter Guide
-Thanks for looking through this guide! If you have any questions getting this up and running, please feel free to submit an Issue or email me at kylpeacock@gmail.com. 
 
 ### Getting Started
 If you haven't already, install git and node.js on your device.
